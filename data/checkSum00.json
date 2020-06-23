@@ -1,0 +1,1462 @@
+[
+  {
+    "bankCode": 10220500,
+    "Description": "Lloyds Bank",
+    "BIC": "BOFSDEB1XXX"
+  },
+  {
+    "bankCode": 12030000,
+    "Description": "Deutsche Kreditbank Berlin",
+    "BIC": "BYLADEM1001"
+  },
+  {
+    "bankCode": 20050550,
+    "Description": "Hamburger Sparkasse",
+    "BIC": "HASPDEHHXXX"
+  },
+  {
+    "bankCode": 20120000,
+    "Description": "Joh. Berenberg, Gossler & Co",
+    "BIC": "BEGODEHHXXX"
+  },
+  {
+    "bankCode": 20130400,
+    "Description": "GRENKE BANK",
+    "BIC": "GREBDEH1XXX"
+  },
+  {
+    "bankCode": 20750000,
+    "Description": "Sparkasse Harburg-Buxtehude",
+    "BIC": "NOLADE21HAM"
+  },
+  {
+    "bankCode": 23050101,
+    "Description": "Sparkasse zu Lübeck",
+    "BIC": "NOLADE21SPL"
+  },
+  {
+    "bankCode": 24050110,
+    "Description": "Sparkasse Lüneburg",
+    "BIC": "NOLADE21LBG"
+  },
+  {
+    "bankCode": 24150001,
+    "Description": "Stadtsparkasse Cuxhaven",
+    "BIC": "BRLADE21CUX"
+  },
+  {
+    "bankCode": 24151116,
+    "Description": "Kreissparkasse Stade",
+    "BIC": "NOLADE21STK"
+  },
+  {
+    "bankCode": 24151235,
+    "Description": "Sparkasse Rotenburg Osterholz",
+    "BIC": "BRLADE21ROB"
+  },
+  {
+    "bankCode": 25151270,
+    "Description": "Stadtsparkasse Barsinghausen",
+    "BIC": "NOLADE21BAH"
+  },
+  {
+    "bankCode": 25151371,
+    "Description": "Stadtsparkasse Burgdorf",
+    "BIC": "NOLADE21BUF"
+  },
+  {
+    "bankCode": 25152375,
+    "Description": "Kreissparkasse Fallingbostel in Walsrode",
+    "BIC": "NOLADE21WAL"
+  },
+  {
+    "bankCode": 25152490,
+    "Description": "Stadtsparkasse Wunstorf",
+    "BIC": "NOLADE21WST"
+  },
+  {
+    "bankCode": 25450110,
+    "Description": "Sparkasse Hameln-Weserbergland",
+    "BIC": "NOLADE21SWB"
+  },
+  {
+    "bankCode": 25451345,
+    "Description": "Stadtsparkasse Bad Pyrmont",
+    "BIC": "NOLADE21PMT"
+  },
+  {
+    "bankCode": 25551480,
+    "Description": "Sparkasse Schaumburg",
+    "BIC": "NOLADE21SHG"
+  },
+  {
+    "bankCode": 25650106,
+    "Description": "Sparkasse Nienburg",
+    "BIC": "NOLADE21NIB"
+  },
+  {
+    "bankCode": 25651325,
+    "Description": "Kreissparkasse Grafschaft Diepholz",
+    "BIC": "BRLADE21DHZ"
+  },
+  {
+    "bankCode": 25750001,
+    "Description": "Sparkasse Celle",
+    "BIC": "NOLADE21CEL"
+  },
+  {
+    "bankCode": 25850110,
+    "Description": "Sparkasse Uelzen Lüchow-Dannenberg",
+    "BIC": "NOLADE21UEL"
+  },
+  {
+    "bankCode": 25851660,
+    "Description": "Kreissparkasse Soltau",
+    "BIC": "NOLADE21SOL"
+  },
+  {
+    "bankCode": 26050001,
+    "Description": "Sparkasse Göttingen",
+    "BIC": "NOLADE21GOE"
+  },
+  {
+    "bankCode": 26051260,
+    "Description": "Sparkasse Duderstadt",
+    "BIC": "NOLADE21DUD"
+  },
+  {
+    "bankCode": 26051450,
+    "Description": "Kreis- und Stadtsparkasse Münden",
+    "BIC": "NOLADE21HMU"
+  },
+  {
+    "bankCode": 26250001,
+    "Description": "Kreis-Sparkasse Northeim",
+    "BIC": "NOLADE21NOM"
+  },
+  {
+    "bankCode": 26251425,
+    "Description": "Sparkasse Einbeck",
+    "BIC": "NOLADE21EIN"
+  },
+  {
+    "bankCode": 26351015,
+    "Description": "Sparkasse Osterode am Harz",
+    "BIC": "NOLADE21HZB"
+  },
+  {
+    "bankCode": 26351445,
+    "Description": "Stadtsparkasse Bad Sachsa",
+    "BIC": "NOLADE21SAC"
+  },
+  {
+    "bankCode": 26550105,
+    "Description": "Sparkasse Osnabrück",
+    "BIC": "NOLADE22XXX"
+  },
+  {
+    "bankCode": 26551540,
+    "Description": "Kreissparkasse Bersenbrück",
+    "BIC": "NOLADE21BEB"
+  },
+  {
+    "bankCode": 26552286,
+    "Description": "Kreissparkasse Melle",
+    "BIC": "NOLADE21MEL"
+  },
+  {
+    "bankCode": 26650001,
+    "Description": "Sparkasse Emsland",
+    "BIC": "NOLADE21EMS"
+  },
+  {
+    "bankCode": 26750001,
+    "Description": "Kreissparkasse Grafschaft Bentheim zu Nordhorn",
+    "BIC": "NOLADE21NOH"
+  },
+  {
+    "bankCode": 26951311,
+    "Description": "Sparkasse Celle-Gifhorn-Wolfsburg",
+    "BIC": "NOLADE21GFW"
+  },
+  {
+    "bankCode": 28050100,
+    "Description": "Landessparkasse zu Oldenburg",
+    "BIC": "SLZODE22XXX"
+  },
+  {
+    "bankCode": 28250110,
+    "Description": "Sparkasse Wilhelmshaven",
+    "BIC": "BRLADE21WHV"
+  },
+  {
+    "bankCode": 28252760,
+    "Description": "Kreissparkasse Wittmund",
+    "BIC": "BRLADE21WTM"
+  },
+  {
+    "bankCode": 28290063,
+    "Description": "Volksbank Wilhelmshaven",
+    "BIC": "GENODEF1WHV"
+  },
+  {
+    "bankCode": 28350000,
+    "Description": "Sparkasse Aurich-Norden",
+    "BIC": "BRLADE21ANO"
+  },
+  {
+    "bankCode": 28450000,
+    "Description": "Sparkasse Emden",
+    "BIC": "BRLADE21EMD"
+  },
+  {
+    "bankCode": 28550000,
+    "Description": "Sparkasse LeerWittmund",
+    "BIC": "BRLADE21LER"
+  },
+  {
+    "bankCode": 29050101,
+    "Description": "Sparkasse Bremen",
+    "BIC": "SBREDE22XXX"
+  },
+  {
+    "bankCode": 29151700,
+    "Description": "Kreissparkasse Syke",
+    "BIC": "BRLADE21SYK"
+  },
+  {
+    "bankCode": 29152550,
+    "Description": "Zweckverbandssparkasse Scheeßel",
+    "BIC": "BRLADE21SHL"
+  },
+  {
+    "bankCode": 29152670,
+    "Description": "Kreissparkasse Verden",
+    "BIC": "BRLADE21VER"
+  },
+  {
+    "bankCode": 30030889,
+    "Description": "HSBC Trinkaus VAC",
+    "BIC": "TUBDDEDDXXX"
+  },
+  {
+    "bankCode": 30030900,
+    "Description": "Merck Finck Privatbankiers",
+    "BIC": "MEFIDEMM300"
+  },
+  {
+    "bankCode": 30050110,
+    "Description": "Stadtsparkasse Düsseldorf",
+    "BIC": "DUSSDEDDXXX"
+  },
+  {
+    "bankCode": 30150200,
+    "Description": "Kreissparkasse Düsseldorf",
+    "BIC": "WELADED1KSD"
+  },
+  {
+    "bankCode": 30351220,
+    "Description": "Stadt-Sparkasse Haan",
+    "BIC": "WELADED1HAA"
+  },
+  {
+    "bankCode": 30550000,
+    "Description": "Sparkasse Neuss",
+    "BIC": "WELADEDNXXX"
+  },
+  {
+    "bankCode": 31050000,
+    "Description": "Stadtsparkasse Mönchengladbach",
+    "BIC": "MGLSDE33XXX"
+  },
+  {
+    "bankCode": 31251220,
+    "Description": "Kreissparkasse Heinsberg in Erkelenz",
+    "BIC": "WELADED1ERK"
+  },
+  {
+    "bankCode": 32050000,
+    "Description": "Sparkasse Krefeld",
+    "BIC": "SPKRDE33XXX"
+  },
+  {
+    "bankCode": 32250050,
+    "Description": "Verbandssparkasse Goch",
+    "BIC": "WELADED1GOC"
+  },
+  {
+    "bankCode": 32450000,
+    "Description": "Sparkasse Rhein-Maas",
+    "BIC": "WELADED1KLE"
+  },
+  {
+    "bankCode": 33050000,
+    "Description": "Stadtsparkasse Wuppertal",
+    "BIC": "WUPSDE33XXX"
+  },
+  {
+    "bankCode": 33450000,
+    "Description": "Sparkasse Hilden-Ratingen-Velbert",
+    "BIC": "WELADED1VEL"
+  },
+  {
+    "bankCode": 34050000,
+    "Description": "Stadtsparkasse Remscheid",
+    "BIC": "WELADEDRXXX"
+  },
+  {
+    "bankCode": 34051350,
+    "Description": "Sparkasse Radevormwald-Hückeswagen",
+    "BIC": "WELADED1RVW"
+  },
+  {
+    "bankCode": 34051570,
+    "Description": "Stadtsparkasse Wermelskirchen",
+    "BIC": "WELADED1WMK"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33XXX"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33305"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33343"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33330"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33342"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33345"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33341"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33346"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33344"
+  },
+  {
+    "bankCode": 34060094,
+    "Description": "Volksbank im Bergischen Land",
+    "BIC": "VBRSDE33347"
+  },
+  {
+    "bankCode": 34250000,
+    "Description": "Stadt-Sparkasse Solingen",
+    "BIC": "SOLSDE33XXX"
+  },
+  {
+    "bankCode": 35050000,
+    "Description": "Sparkasse Duisburg",
+    "BIC": "DUISDE33XXX"
+  },
+  {
+    "bankCode": 35450000,
+    "Description": "Sparkasse am Niederrhein",
+    "BIC": "WELADED1MOR"
+  },
+  {
+    "bankCode": 35650000,
+    "Description": "Niederrheinische Sparkasse RheinLippe",
+    "BIC": "WELADED1WES"
+  },
+  {
+    "bankCode": 36550000,
+    "Description": "Stadtsparkasse Oberhausen",
+    "BIC": "WELADED1OBH"
+  },
+  {
+    "bankCode": 37050198,
+    "Description": "Sparkasse KölnBonn",
+    "BIC": "COLSDE33XXX"
+  },
+  {
+    "bankCode": 37551440,
+    "Description": "Sparkasse Leverkusen",
+    "BIC": "WELADEDLLEV"
+  },
+  {
+    "bankCode": 37551780,
+    "Description": "Stadt-Sparkasse Langenfeld",
+    "BIC": "WELADED1LAF"
+  },
+  {
+    "bankCode": 38051290,
+    "Description": "Stadtsparkasse Bad Honnef",
+    "BIC": "WELADED1HON"
+  },
+  {
+    "bankCode": 38250110,
+    "Description": "Kreissparkasse Euskirchen",
+    "BIC": "WELADED1EUS"
+  },
+  {
+    "bankCode": 38450000,
+    "Description": "Sparkasse Gummersbach",
+    "BIC": "WELADED1GMB"
+  },
+  {
+    "bankCode": 39050000,
+    "Description": "Sparkasse Aachen",
+    "BIC": "AACSDE33XXX"
+  },
+  {
+    "bankCode": 39550110,
+    "Description": "Sparkasse Düren",
+    "BIC": "SDUEDE33XXX"
+  },
+  {
+    "bankCode": 40050150,
+    "Description": "Sparkasse Münsterland Ost",
+    "BIC": "WELADED1MST"
+  },
+  {
+    "bankCode": 40154006,
+    "Description": "Sparkasse Gronau",
+    "BIC": "WELADED1GRO"
+  },
+  {
+    "bankCode": 40154476,
+    "Description": "Stadtsparkasse Lengerich",
+    "BIC": "WELADED1LEN"
+  },
+  {
+    "bankCode": 40154530,
+    "Description": "Sparkasse Westmünsterland",
+    "BIC": "WELADE3WXXX"
+  },
+  {
+    "bankCode": 40154702,
+    "Description": "Stadtsparkasse Stadtlohn",
+    "BIC": "WELADED1STL"
+  },
+  {
+    "bankCode": 40350005,
+    "Description": "Stadtsparkasse Rheine",
+    "BIC": "WELADED1RHN"
+  },
+  {
+    "bankCode": 40351060,
+    "Description": "Kreissparkasse Steinfurt",
+    "BIC": "WELADED1STF"
+  },
+  {
+    "bankCode": 41050095,
+    "Description": "Sparkasse Hamm",
+    "BIC": "WELADED1HAM"
+  },
+  {
+    "bankCode": 41051845,
+    "Description": "Sparkasse Bergkamen-Bönen",
+    "BIC": "WELADED1BGK"
+  },
+  {
+    "bankCode": 41250035,
+    "Description": "Sparkasse Beckum-Wadersloh",
+    "BIC": "WELADED1BEK"
+  },
+  {
+    "bankCode": 41450075,
+    "Description": "Sparkasse SoestWerl",
+    "BIC": "WELADED1SOS"
+  },
+  {
+    "bankCode": 41650001,
+    "Description": "Sparkasse Lippstadt",
+    "BIC": "WELADED1LIP"
+  },
+  {
+    "bankCode": 41651770,
+    "Description": "Sparkasse Hochsauerland",
+    "BIC": "WELADED1HSL"
+  },
+  {
+    "bankCode": 41651965,
+    "Description": "Sparkasse Geseke",
+    "BIC": "WELADED1GES"
+  },
+  {
+    "bankCode": 42450040,
+    "Description": "Stadtsparkasse Gladbeck",
+    "BIC": "WELADED1GLA"
+  },
+  {
+    "bankCode": 42451220,
+    "Description": "Sparkasse Bottrop",
+    "BIC": "WELADED1BOT"
+  },
+  {
+    "bankCode": 42650150,
+    "Description": "Sparkasse Vest Recklinghausen",
+    "BIC": "WELADED1REK"
+  },
+  {
+    "bankCode": 42651315,
+    "Description": "Stadtsparkasse Haltern am See",
+    "BIC": "WELADED1HAT"
+  },
+  {
+    "bankCode": 42850035,
+    "Description": "Stadtsparkasse Bocholt",
+    "BIC": "WELADED1BOH"
+  },
+  {
+    "bankCode": 43050001,
+    "Description": "Sparkasse Bochum",
+    "BIC": "WELADED1BOC"
+  },
+  {
+    "bankCode": 43051040,
+    "Description": "Sparkasse Hattingen",
+    "BIC": "WELADED1HTG"
+  },
+  {
+    "bankCode": 43250030,
+    "Description": "Herner Sparkasse",
+    "BIC": "WELADED1HRN"
+  },
+  {
+    "bankCode": 44152370,
+    "Description": "Sparkasse an der Lippe",
+    "BIC": "WELADED1LUN"
+  },
+  {
+    "bankCode": 44152490,
+    "Description": "Stadtsparkasse Schwerte",
+    "BIC": "WELADED1SWT"
+  },
+  {
+    "bankCode": 44350060,
+    "Description": "Sparkasse UnnaKamen",
+    "BIC": "WELADED1UNN"
+  },
+  {
+    "bankCode": 44550045,
+    "Description": "Sparkasse der Stadt Iserlohn",
+    "BIC": "WELADED1ISL"
+  },
+  {
+    "bankCode": 44551210,
+    "Description": "Sparkasse Märkisches Sauerland Hemer-Menden",
+    "BIC": "WELADED1HEM"
+  },
+  {
+    "bankCode": 45250035,
+    "Description": "Sparkasse Witten",
+    "BIC": "WELADED1WTN"
+  },
+  {
+    "bankCode": 45251515,
+    "Description": "Stadtsparkasse Sprockhövel",
+    "BIC": "SPSHDE31XXX"
+  },
+  {
+    "bankCode": 45450050,
+    "Description": "Sparkasse Gevelsberg-Wetter",
+    "BIC": "WELADED1GEV"
+  },
+  {
+    "bankCode": 45451060,
+    "Description": "Sparkasse Ennepetal-Breckerfeld",
+    "BIC": "WELADED1ENE"
+  },
+  {
+    "bankCode": 45850005,
+    "Description": "Sparkasse Lüdenscheid",
+    "BIC": "WELADED1LSD"
+  },
+  {
+    "bankCode": 45851020,
+    "Description": "Vereinigte Sparkasse im Märkischen Kreis",
+    "BIC": "WELADED1PLB"
+  },
+  {
+    "bankCode": 45851665,
+    "Description": "Sparkasse Kierspe-Meinerzhagen",
+    "BIC": "WELADED1KMZ"
+  },
+  {
+    "bankCode": 46050001,
+    "Description": "Sparkasse Siegen",
+    "BIC": "WELADED1SIE"
+  },
+  {
+    "bankCode": 46051240,
+    "Description": "Sparkasse Burbach-Neunkirchen",
+    "BIC": "WELADED1BUB"
+  },
+  {
+    "bankCode": 46053480,
+    "Description": "Sparkasse Wittgenstein",
+    "BIC": "WELADED1BEB"
+  },
+  {
+    "bankCode": 46250049,
+    "Description": "Sparkasse Olpe-Drolshagen-Wenden",
+    "BIC": "WELADED1OPE"
+  },
+  {
+    "bankCode": 46251590,
+    "Description": "Sparkasse Finnentrop",
+    "BIC": "WELADED1FTR"
+  },
+  {
+    "bankCode": 46251630,
+    "Description": "Sparkasse Attendorn-Lennestadt-Kirchhundem",
+    "BIC": "WELADED1ALK"
+  },
+  {
+    "bankCode": 46451012,
+    "Description": "Sparkasse Meschede",
+    "BIC": "WELADED1MES"
+  },
+  {
+    "bankCode": 46650005,
+    "Description": "Sparkasse Arnsberg-Sundern",
+    "BIC": "WELADED1ARN"
+  },
+  {
+    "bankCode": 47251550,
+    "Description": "Sparkasse Höxter",
+    "BIC": "WELADED1HXB"
+  },
+  {
+    "bankCode": 47251740,
+    "Description": "Stadtsparkasse Delbrück",
+    "BIC": "WELADED1DEL"
+  },
+  {
+    "bankCode": 47650130,
+    "Description": "Sparkasse Paderborn-Detmold",
+    "BIC": "WELADE3LXXX"
+  },
+  {
+    "bankCode": 47651225,
+    "Description": "Stadtsparkasse Blomberg",
+    "BIC": "WELADED1BLO"
+  },
+  {
+    "bankCode": 47853355,
+    "Description": "Stadtsparkasse Versmold",
+    "BIC": "WELADED1VSM"
+  },
+  {
+    "bankCode": 47853520,
+    "Description": "Kreissparkasse Wiedenbrück",
+    "BIC": "WELADED1WDB"
+  },
+  {
+    "bankCode": 48050161,
+    "Description": "Sparkasse Bielefeld",
+    "BIC": "SPBIDE3BXXX"
+  },
+  {
+    "bankCode": 48051580,
+    "Description": "Kreissparkasse Halle",
+    "BIC": "WELADED1HAW"
+  },
+  {
+    "bankCode": 48250110,
+    "Description": "Sparkasse Lemgo",
+    "BIC": "WELADED1LEM"
+  },
+  {
+    "bankCode": 49050101,
+    "Description": "Sparkasse Minden-Lübbecke",
+    "BIC": "WELADED1MIN"
+  },
+  {
+    "bankCode": 49051065,
+    "Description": "Stadtsparkasse Rahden",
+    "BIC": "WELADED1RHD"
+  },
+  {
+    "bankCode": 49051285,
+    "Description": "Sparkasse Bad Oeynhausen-Porta Westfalica",
+    "BIC": "WELADED1OEH"
+  },
+  {
+    "bankCode": 49450120,
+    "Description": "Sparkasse Herford",
+    "BIC": "WLAHDE44XXX"
+  },
+  {
+    "bankCode": 50030100,
+    "Description": "HKB Bank Frankfurt",
+    "BIC": "HKBBDEF1FRA"
+  },
+  {
+    "bankCode": 50050000,
+    "Description": "Landesbank Hessen-Thür Girozentrale",
+    "BIC": "HELADEFFXXX"
+  },
+  {
+    "bankCode": 50050999,
+    "Description": "DekaBank Frankfurt",
+    "BIC": "DGZFDEFFXXX"
+  },
+  {
+    "bankCode": 50090200,
+    "Description": "VR Smart Finanz Bank",
+    "BIC": "VRDIDEFFXXX"
+  },
+  {
+    "bankCode": 50220500,
+    "Description": "Lloyds Bank",
+    "BIC": "BOFSDEF1XXX"
+  },
+  {
+    "bankCode": 50220707,
+    "Description": "CAIXABANK Zweigniederlassung Deutschland",
+    "BIC": "CAIXDEFFXXX"
+  },
+  {
+    "bankCode": 50220900,
+    "Description": "Hauck & Aufhäuser Privatbankiers",
+    "BIC": "HAUKDEFFXXX"
+  },
+  {
+    "bankCode": 50230000,
+    "Description": "ABC International Bank Frankfurt am Main",
+    "BIC": "ABCADEFFXXX"
+  },
+  {
+    "bankCode": 50230700,
+    "Description": "Metzler, B. - seel Sohn & Co",
+    "BIC": "METZDEFFXXX"
+  },
+  {
+    "bankCode": 50320000,
+    "Description": "VTB Bank (Europe)",
+    "BIC": "OWHBDEFFXXX"
+  },
+  {
+    "bankCode": 50650023,
+    "Description": "SPARKASSE HANAU",
+    "BIC": "HELADEF1HAN"
+  },
+  {
+    "bankCode": 50652124,
+    "Description": "Sparkasse Langen-Seligenstadt",
+    "BIC": "HELADEF1SLS"
+  },
+  {
+    "bankCode": 50851952,
+    "Description": "Sparkasse Odenwaldkreis",
+    "BIC": "HELADEF1ERB"
+  },
+  {
+    "bankCode": 50852553,
+    "Description": "Kreissparkasse Groß-Gerau",
+    "BIC": "HELADEF1GRG"
+  },
+  {
+    "bankCode": 50852651,
+    "Description": "Sparkasse Dieburg",
+    "BIC": "HELADEF1DIE"
+  },
+  {
+    "bankCode": 50950068,
+    "Description": "Sparkasse Bensheim",
+    "BIC": "HELADEF1BEN"
+  },
+  {
+    "bankCode": 51150018,
+    "Description": "Kreissparkasse Limburg",
+    "BIC": "HELADEF1LIM"
+  },
+  {
+    "bankCode": 51151919,
+    "Description": "Kreissparkasse Weilburg",
+    "BIC": "HELADEF1WEI"
+  },
+  {
+    "bankCode": 51351526,
+    "Description": "Sparkasse Grünberg",
+    "BIC": "HELADEF1GRU"
+  },
+  {
+    "bankCode": 51352227,
+    "Description": "Sparkasse Laubach-Hungen",
+    "BIC": "HELADEF1LAU"
+  },
+  {
+    "bankCode": 51430345,
+    "Description": "Nordea Bank, Niederlassung Frankfurt",
+    "BIC": "NDEADEFFDKK"
+  },
+  {
+    "bankCode": 51550035,
+    "Description": "Sparkasse Wetzlar",
+    "BIC": "HELADEF1WET"
+  },
+  {
+    "bankCode": 51650045,
+    "Description": "Sparkasse Dillenburg",
+    "BIC": "HELADEF1DIL"
+  },
+  {
+    "bankCode": 51752267,
+    "Description": "Sparkasse Battenberg",
+    "BIC": "HELADEF1BAT"
+  },
+  {
+    "bankCode": 52050000,
+    "Description": "Landeskreditkasse Kassel",
+    "BIC": "HELADEFF520"
+  },
+  {
+    "bankCode": 52051373,
+    "Description": "Stadtsparkasse Borken (Hessen)",
+    "BIC": "HELADEF1BOR"
+  },
+  {
+    "bankCode": 52051877,
+    "Description": "Stadtsparkasse Grebenstein",
+    "BIC": "HELADEF1GRE"
+  },
+  {
+    "bankCode": 52052154,
+    "Description": "Kreissparkasse Schwalm-Eder",
+    "BIC": "HELADEF1MEG"
+  },
+  {
+    "bankCode": 52053458,
+    "Description": "Stadtsparkasse Schwalmstadt",
+    "BIC": "HELADEF1SWA"
+  },
+  {
+    "bankCode": 52250030,
+    "Description": "Sparkasse Werra-Meißner",
+    "BIC": "HELADEF1ESW"
+  },
+  {
+    "bankCode": 52350005,
+    "Description": "Sparkasse Waldeck-Frankenberg",
+    "BIC": "HELADEF1KOR"
+  },
+  {
+    "bankCode": 52430000,
+    "Description": "Credit Mutuel - BECM - Ndl Deutschland",
+    "BIC": "CMCIDEF1XXX"
+  },
+  {
+    "bankCode": 54050110,
+    "Description": "Stadtsparkasse Kaiserslautern",
+    "BIC": "MALADE51KLS"
+  },
+  {
+    "bankCode": 54050220,
+    "Description": "Kreissparkasse Kaiserslautern",
+    "BIC": "MALADE51KLK"
+  },
+  {
+    "bankCode": 54051550,
+    "Description": "Kreissparkasse Kusel",
+    "BIC": "MALADE51KUS"
+  },
+  {
+    "bankCode": 54051990,
+    "Description": "Sparkasse Donnersberg",
+    "BIC": "MALADE51ROK"
+  },
+  {
+    "bankCode": 54250010,
+    "Description": "Sparkasse Südwestpfalz",
+    "BIC": "MALADE51SWP"
+  },
+  {
+    "bankCode": 54550010,
+    "Description": "Sparkasse Vorderpfalz",
+    "BIC": "LUHSDE6AXXX"
+  },
+  {
+    "bankCode": 54550120,
+    "Description": "Kreissparkasse Rhein-Pfalz",
+    "BIC": "MALADE51LUH"
+  },
+  {
+    "bankCode": 54651240,
+    "Description": "Sparkasse Rhein-Haardt",
+    "BIC": "MALADE51DKH"
+  },
+  {
+    "bankCode": 54750010,
+    "Description": "Kreis- und Stadtsparkasse Speyer",
+    "BIC": "MALADE51SPY"
+  },
+  {
+    "bankCode": 54850010,
+    "Description": "Sparkasse Südliche Weinstraße in Landau",
+    "BIC": "SOLADES1SUW"
+  },
+  {
+    "bankCode": 54851440,
+    "Description": "Sparkasse Germersheim-Kandel",
+    "BIC": "MALADE51KAD"
+  },
+  {
+    "bankCode": 55050120,
+    "Description": "Sparkasse Mainz",
+    "BIC": "MALADE51MNZ"
+  },
+  {
+    "bankCode": 55190000,
+    "Description": "Mainzer Volksbank",
+    "BIC": "MVBMDE55XXX"
+  },
+  {
+    "bankCode": 56050180,
+    "Description": "Sparkasse Rhein-Nahe",
+    "BIC": "MALADE51KRE"
+  },
+  {
+    "bankCode": 56051790,
+    "Description": "Kreissparkasse Rhein-Hunsrück",
+    "BIC": "MALADE51SIM"
+  },
+  {
+    "bankCode": 57050120,
+    "Description": "Sparkasse Koblenz",
+    "BIC": "MALADE51KOB"
+  },
+  {
+    "bankCode": 57351030,
+    "Description": "Sparkasse Westerwald-Sieg",
+    "BIC": "MALADE51AKI"
+  },
+  {
+    "bankCode": 57450120,
+    "Description": "Sparkasse Neuwied",
+    "BIC": "MALADE51NWD"
+  },
+  {
+    "bankCode": 57650010,
+    "Description": "Kreissparkasse Mayen",
+    "BIC": "MALADE51MYN"
+  },
+  {
+    "bankCode": 57751310,
+    "Description": "Kreissparkasse Ahrweiler",
+    "BIC": "MALADE51AHR"
+  },
+  {
+    "bankCode": 58550130,
+    "Description": "Sparkasse Trier",
+    "BIC": "TRISDE55XXX"
+  },
+  {
+    "bankCode": 58650030,
+    "Description": "Kreissparkasse Bitburg-Prüm",
+    "BIC": "MALADE51BIT"
+  },
+  {
+    "bankCode": 58651240,
+    "Description": "Kreissparkasse Vulkaneifel",
+    "BIC": "MALADE51DAU"
+  },
+  {
+    "bankCode": 58751230,
+    "Description": "Sparkasse Mittelmosel-Eifel Mosel Hunsrück",
+    "BIC": "MALADE51BKS"
+  },
+  {
+    "bankCode": 59251020,
+    "Description": "Kreissparkasse St. Wendel",
+    "BIC": "SALADE51WND"
+  },
+  {
+    "bankCode": 59350110,
+    "Description": "Kreissparkasse Saarlouis",
+    "BIC": "KRSADE55XXX"
+  },
+  {
+    "bankCode": 59351040,
+    "Description": "Sparkasse Merzig-Wadern",
+    "BIC": "MERZDE55XXX"
+  },
+  {
+    "bankCode": 59450010,
+    "Description": "Kreissparkasse Saarpfalz",
+    "BIC": "SALADE51HOM"
+  },
+  {
+    "bankCode": 60031000,
+    "Description": "TRUMPF Financial Services",
+    "BIC": "TRUFDE66XXX"
+  },
+  {
+    "bankCode": 60130100,
+    "Description": "FFS Bank",
+    "BIC": "GENODED1FFS"
+  },
+  {
+    "bankCode": 66050101,
+    "Description": "Sparkasse Karlsruhe",
+    "BIC": "KARSDE66XXX"
+  },
+  {
+    "bankCode": 66250030,
+    "Description": "Sparkasse Baden-Baden Gaggenau",
+    "BIC": "SOLADES1BAD"
+  },
+  {
+    "bankCode": 66251434,
+    "Description": "Sparkasse Bühl",
+    "BIC": "SOLADES1BHL"
+  },
+  {
+    "bankCode": 66550070,
+    "Description": "Sparkasse Rastatt-Gernsbach",
+    "BIC": "SOLADES1RAS"
+  },
+  {
+    "bankCode": 67352565,
+    "Description": "Sparkasse Tauberfranken",
+    "BIC": "SOLADES1TBB"
+  },
+  {
+    "bankCode": 67450048,
+    "Description": "Sparkasse Neckartal-Odenwald",
+    "BIC": "SOLADES1MOS"
+  },
+  {
+    "bankCode": 68051004,
+    "Description": "Sparkasse Hochschwarzwald",
+    "BIC": "SOLADES1HSW"
+  },
+  {
+    "bankCode": 68051207,
+    "Description": "Sparkasse Bonndorf-Stühlingen",
+    "BIC": "SOLADES1BND"
+  },
+  {
+    "bankCode": 68052230,
+    "Description": "Sparkasse St. Blasien",
+    "BIC": "SOLADES1STB"
+  },
+  {
+    "bankCode": 68052328,
+    "Description": "Sparkasse Staufen-Breisach",
+    "BIC": "SOLADES1STF"
+  },
+  {
+    "bankCode": 68350048,
+    "Description": "Sparkasse Lörrach-Rheinfelden",
+    "BIC": "SKLODE66XXX"
+  },
+  {
+    "bankCode": 68351557,
+    "Description": "Sparkasse Wiesental",
+    "BIC": "SOLADES1SFH"
+  },
+  {
+    "bankCode": 68351865,
+    "Description": "Sparkasse Markgräflerland",
+    "BIC": "SOLADES1MGL"
+  },
+  {
+    "bankCode": 68452290,
+    "Description": "Sparkasse Hochrhein",
+    "BIC": "SKHRDE6WXXX"
+  },
+  {
+    "bankCode": 69050001,
+    "Description": "Sparkasse Bodensee",
+    "BIC": "SOLADES1KNZ"
+  },
+  {
+    "bankCode": 69051410,
+    "Description": "Bezirkssparkasse Reichenau",
+    "BIC": "SOLADES1REN"
+  },
+  {
+    "bankCode": 69051620,
+    "Description": "Sparkasse Pfullendorf-Meßkirch",
+    "BIC": "SOLADES1PFD"
+  },
+  {
+    "bankCode": 69051725,
+    "Description": "Sparkasse Salem-Heiligenberg",
+    "BIC": "SOLADES1SAL"
+  },
+  {
+    "bankCode": 69250035,
+    "Description": "Sparkasse Hegau-Bodensee",
+    "BIC": "SOLADES1SNG"
+  },
+  {
+    "bankCode": 69251445,
+    "Description": "Sparkasse Engen-Gottmadingen",
+    "BIC": "SOLADES1ENG"
+  },
+  {
+    "bankCode": 70030014,
+    "Description": "Fürst Fugger Privatbank",
+    "BIC": "FUBKDE71MUC"
+  },
+  {
+    "bankCode": 70031000,
+    "Description": "Bankhaus Ludwig Sperrer",
+    "BIC": "BHLSDEM1XXX"
+  },
+  {
+    "bankCode": 70051003,
+    "Description": "Sparkasse Freising",
+    "BIC": "BYLADEM1FSI"
+  },
+  {
+    "bankCode": 70051540,
+    "Description": "Sparkasse Dachau",
+    "BIC": "BYLADEM1DAH"
+  },
+  {
+    "bankCode": 70051995,
+    "Description": "Kreis- und Stadtsparkasse Erding-Dorfen",
+    "BIC": "BYLADEM1ERD"
+  },
+  {
+    "bankCode": 70052060,
+    "Description": "Sparkasse Landsberg-Dießen",
+    "BIC": "BYLADEM1LLD"
+  },
+  {
+    "bankCode": 70053070,
+    "Description": "Sparkasse Fürstenfeldbruck",
+    "BIC": "BYLADEM1FFB"
+  },
+  {
+    "bankCode": 70054306,
+    "Description": "Sparkasse Bad Tölz-Wolfratshausen",
+    "BIC": "BYLADEM1WOR"
+  },
+  {
+    "bankCode": 70120400,
+    "Description": "BNP Paribas Niederlassung Deutschland",
+    "BIC": "DABBDEMMXXX"
+  },
+  {
+    "bankCode": 70120700,
+    "Description": "Oberbank Ndl Deutschland",
+    "BIC": "OBKLDEMXXXX"
+  },
+  {
+    "bankCode": 70150000,
+    "Description": "Stadtsparkasse München",
+    "BIC": "SSKMDEMMXXX"
+  },
+  {
+    "bankCode": 70250150,
+    "Description": "Kreissparkasse München Starnberg Ebersberg",
+    "BIC": "BYLADEM1KMS"
+  },
+  {
+    "bankCode": 70350000,
+    "Description": "Kreissparkasse Garmisch-Partenkirchen",
+    "BIC": "BYLADEM1GAP"
+  },
+  {
+    "bankCode": 70351030,
+    "Description": "Sparkasse Oberland",
+    "BIC": "BYLADEM1WHM"
+  },
+  {
+    "bankCode": 71050000,
+    "Description": "Sparkasse Berchtesgadener Land",
+    "BIC": "BYLADEM1BGL"
+  },
+  {
+    "bankCode": 71052050,
+    "Description": "Kreissparkasse Traunstein-Trostberg",
+    "BIC": "BYLADEM1TST"
+  },
+  {
+    "bankCode": 71150000,
+    "Description": "Sparkasse Rosenheim-Bad Aibling",
+    "BIC": "BYLADEM1ROS"
+  },
+  {
+    "bankCode": 71151020,
+    "Description": "Sparkasse Altötting-Mühldorf",
+    "BIC": "BYLADEM1MDF"
+  },
+  {
+    "bankCode": 71152570,
+    "Description": "Kreissparkasse Miesbach-Tegernsee",
+    "BIC": "BYLADEM1MIB"
+  },
+  {
+    "bankCode": 71152680,
+    "Description": "Kreis- und Stadtsparkasse Wasserburg",
+    "BIC": "BYLADEM1WSB"
+  },
+  {
+    "bankCode": 72030014,
+    "Description": "Fürst Fugger Privatbank",
+    "BIC": "FUBKDE71XXX"
+  },
+  {
+    "bankCode": 72030227,
+    "Description": "Bankhaus Anton Hafner",
+    "BIC": "ANHODE77XXX"
+  },
+  {
+    "bankCode": 72050000,
+    "Description": "Stadtsparkasse Augsburg",
+    "BIC": "AUGSDE77XXX"
+  },
+  {
+    "bankCode": 72050101,
+    "Description": "Kreissparkasse Augsburg",
+    "BIC": "BYLADEM1AUG"
+  },
+  {
+    "bankCode": 72051210,
+    "Description": "Sparkasse Aichach-Schrobenhausen",
+    "BIC": "BYLADEM1AIC"
+  },
+  {
+    "bankCode": 72051840,
+    "Description": "Sparkasse Günzburg-Krumbach",
+    "BIC": "BYLADEM1GZK"
+  },
+  {
+    "bankCode": 72150000,
+    "Description": "Sparkasse Ingolstadt Eichstätt",
+    "BIC": "BYLADEM1ING"
+  },
+  {
+    "bankCode": 72151650,
+    "Description": "Sparkasse Pfaffenhofen",
+    "BIC": "BYLADEM1PAF"
+  },
+  {
+    "bankCode": 72152070,
+    "Description": "Sparkasse Neuburg-Rain",
+    "BIC": "BYLADEM1NEB"
+  },
+  {
+    "bankCode": 72250160,
+    "Description": "Sparkasse Donauwörth",
+    "BIC": "BYLADEM1DON"
+  },
+  {
+    "bankCode": 73050000,
+    "Description": "Sparkasse Neu-Ulm-Illertissen",
+    "BIC": "BYLADEM1NUL"
+  },
+  {
+    "bankCode": 73150000,
+    "Description": "Sparkasse Memmingen-Lindau-Mindelheim",
+    "BIC": "BYLADEM1MLM"
+  },
+  {
+    "bankCode": 73350000,
+    "Description": "Sparkasse Allgäu",
+    "BIC": "BYLADEM1ALG"
+  },
+  {
+    "bankCode": 73351635,
+    "Description": "Sparkasse Riezlern, Kleinwalsertal",
+    "BIC": "BYLADEM1ALR"
+  },
+  {
+    "bankCode": 73450000,
+    "Description": "Kreis- und Stadtsparkasse Kaufbeuren",
+    "BIC": "BYLADEM1KFB"
+  },
+  {
+    "bankCode": 74050000,
+    "Description": "Sparkasse Passau",
+    "BIC": "BYLADEM1PAS"
+  },
+  {
+    "bankCode": 74051230,
+    "Description": "Sparkasse Freyung-Grafenau",
+    "BIC": "BYLADEM1FRG"
+  },
+  {
+    "bankCode": 74150000,
+    "Description": "Sparkasse Deggendorf",
+    "BIC": "BYLADEM1DEG"
+  },
+  {
+    "bankCode": 74151450,
+    "Description": "Sparkasse Regen-Viechtach",
+    "BIC": "BYLADEM1REG"
+  },
+  {
+    "bankCode": 74250000,
+    "Description": "Sparkasse Niederbayern-Mitte",
+    "BIC": "BYLADEM1SRG"
+  },
+  {
+    "bankCode": 74251020,
+    "Description": "Sparkasse im Landkreis Cham",
+    "BIC": "BYLADEM1CHM"
+  },
+  {
+    "bankCode": 74351430,
+    "Description": "Sparkasse Rottal-Inn",
+    "BIC": "BYLADEM1EGF"
+  },
+  {
+    "bankCode": 75050000,
+    "Description": "Sparkasse Regensburg",
+    "BIC": "BYLADEM1RBG"
+  },
+  {
+    "bankCode": 75051040,
+    "Description": "Sparkasse im Landkreis Schwandorf",
+    "BIC": "BYLADEM1SAD"
+  },
+  {
+    "bankCode": 75051565,
+    "Description": "Kreissparkasse Kelheim",
+    "BIC": "BYLADEM1KEH"
+  },
+  {
+    "bankCode": 75250000,
+    "Description": "Sparkasse Amberg-Sulzbach",
+    "BIC": "BYLADEM1ABG"
+  },
+  {
+    "bankCode": 75350000,
+    "Description": "Sparkasse Oberpfalz Nord",
+    "BIC": "BYLADEM1WEN"
+  },
+  {
+    "bankCode": 75351960,
+    "Description": "Vereinigte Sparkassen Eschenbach i d Opf",
+    "BIC": "BYLADEM1ESB"
+  },
+  {
+    "bankCode": 76052080,
+    "Description": "Sparkasse Neumarkt i d OPf-Parsberg",
+    "BIC": "BYLADEM1NMA"
+  },
+  {
+    "bankCode": 76250000,
+    "Description": "Sparkasse Fürth",
+    "BIC": "BYLADEM1SFU"
+  },
+  {
+    "bankCode": 76251020,
+    "Description": "Sparkasse i Landkreis Neustadt a d Aisch",
+    "BIC": "BYLADEM1NEA"
+  },
+  {
+    "bankCode": 76351040,
+    "Description": "Sparkasse Forchheim",
+    "BIC": "BYLADEM1FOR"
+  },
+  {
+    "bankCode": 76351560,
+    "Description": "Kreissparkasse Höchstadt",
+    "BIC": "BYLADEM1HOS"
+  },
+  {
+    "bankCode": 76550000,
+    "Description": "Sparkasse Ansbach",
+    "BIC": "BYLADEM1ANS"
+  },
+  {
+    "bankCode": 76551540,
+    "Description": "Vereinigte Sparkassen Gunzenhausen",
+    "BIC": "BYLADEM1GUN"
+  },
+  {
+    "bankCode": 77050000,
+    "Description": "Sparkasse Bamberg",
+    "BIC": "BYLADEM1SKB"
+  },
+  {
+    "bankCode": 77150000,
+    "Description": "Sparkasse Kulmbach-Kronach",
+    "BIC": "BYLADEM1KUB"
+  },
+  {
+    "bankCode": 77322200,
+    "Description": "Fondsdepot Bank",
+    "BIC": "FODBDE77XXX"
+  },
+  {
+    "bankCode": 77350110,
+    "Description": "Sparkasse Bayreuth",
+    "BIC": "BYLADEM1SBT"
+  },
+  {
+    "bankCode": 78050000,
+    "Description": "Sparkasse Hochfranken",
+    "BIC": "BYLADEM1HOF"
+  },
+  {
+    "bankCode": 78350000,
+    "Description": "Sparkasse Coburg-Lichtenfels",
+    "BIC": "BYLADEM1COB"
+  },
+  {
+    "bankCode": 79032038,
+    "Description": "Merkur Bank",
+    "BIC": "BSHADE71XXX"
+  },
+  {
+    "bankCode": 79050000,
+    "Description": "Sparkasse Mainfranken Würzburg",
+    "BIC": "BYLADEM1SWU"
+  },
+  {
+    "bankCode": 79350101,
+    "Description": "Sparkasse Schweinfurt-Haßberge",
+    "BIC": "BYLADEM1KSW"
+  },
+  {
+    "bankCode": 79351010,
+    "Description": "Sparkasse Bad Kissingen",
+    "BIC": "BYLADEM1KIS"
+  },
+  {
+    "bankCode": 79353090,
+    "Description": "Sparkasse Bad Neustadt a d Saale",
+    "BIC": "BYLADEM1NES"
+  },
+  {
+    "bankCode": 79550000,
+    "Description": "Sparkasse Aschaffenburg Alzenau",
+    "BIC": "BYLADEM1ASA"
+  },
+  {
+    "bankCode": 79650000,
+    "Description": "Sparkasse Miltenberg-Obernburg",
+    "BIC": "BYLADEM1MIL"
+  },
+  {
+    "bankCode": 82050000,
+    "Description": "Landesbank Hessen-Thür Girozentrale Erfurt",
+    "BIC": "HELADEFF820"
+  }
+]
