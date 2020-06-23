@@ -51,7 +51,7 @@ app.use((err, req, res, next) => {
 
 // Functions
 const getBankDetails = async () => {
-  const rawdata = JSON.parse(fs.readFileSync('./data/checkSum00.json'));
+  const rawdata = JSON.parse(fs.readFileSync('data/checkSum00.json'));
   const rndNumber = randomInt(0, rawdata.length);
   console.log(rawdata[rndNumber]);
   return rawdata[rndNumber];
