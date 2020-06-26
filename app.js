@@ -74,13 +74,11 @@ const getAccount = async () => {
   let finalIban = IBAN.fromBBAN('DE', finalBban); // creates the IBAN from finalBBAN with imported method
 
   return {
-    bankAccount: {
-      Iban: finalIban,
-      bankCode: bankDetails.BIC,
-      AccountNumber: bankAccount.bankAccountNumber,
-      bankId: bankDetails.bankCode,
-      bankName: bankDetails.Description,
-    },
+    Iban: finalIban,
+    bankCode: bankDetails.BIC,
+    AccountNumber: bankAccount.bankAccountNumber,
+    bankId: bankDetails.bankCode,
+    bankName: bankDetails.Description,
   };
 };
 
