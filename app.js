@@ -51,7 +51,9 @@ app.use((err, req, res, next) => {
 
 // Functions
 const getBankDetails = async () => {
-  const rawdata = JSON.parse(fs.readFileSync('data/checkSum00.json'));
+  const rawdata = JSON.parse(
+    fs.readFileSync(__dirname + '/data/checkSum00.json')
+  );
   const rndNumber = randomInt(0, rawdata.length);
   console.log(rawdata[rndNumber]);
   return rawdata[rndNumber];
@@ -74,9 +76,9 @@ const getAccount = async () => {
   let finalIban = IBAN.fromBBAN('DE', finalBban); // creates the IBAN from finalBBAN with imported method
 
   return {
-    Iban: finalIban,
+    iban: finalIban,
     bankCode: bankDetails.BIC,
-    AccountNumber: bankAccount.bankAccountNumber,
+    accountNumber: bankAccount.bankAccountNumber,
     bankId: bankDetails.bankCode,
     bankName: bankDetails.Description,
   };
